@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Palette {
+  static const kLightGreyColor = Color(0xFFCBD0DF);
+  static const kDarkGreyColor = Color(0xFF9aA2B3);
   static const kScaffoldColor = Colors.white;
   static const kPrimaryColor = Color(0xFF2F80ED);
   static const kAccentColor = Color(0xFFF65E39);
